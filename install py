@@ -1,0 +1,8 @@
+pip install scikit-learn
+pip install xlsxwriter
+pip install joblib
+pip install matplotlib
+pip install BeautifulSoup4
+pip install numpy
+pip install pandas
+pip install https://download.pytorch.org/whl/cpu/torch-2.0.0%2Bcpu-cp311-cp311-win_amd64.whl
